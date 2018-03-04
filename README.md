@@ -1,2 +1,2 @@
 # hanoiTower
-This is a programm that calculates the Algorithm to solve Hanoi tower problem.
+This is a program that calculates a possible solution solving Hanoi tower problem.
